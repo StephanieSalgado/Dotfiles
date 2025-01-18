@@ -7,7 +7,7 @@ export BAT_THEME=TokyoNight
 
 export PATH="/opt/homebrew/bin:$PATH"
 
-alias python="python3"
+alias python="/opt/homebrew/bin/python3"
 alias pip="pip3"
 
 alias cd="z"
